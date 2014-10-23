@@ -1,0 +1,22 @@
+{
+  "name": "phone_number_js",
+  "version": "1.0.0",
+  "main": "dist/phoneNumber.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test",
+    "*.md",
+    ".gitignore"
+  ],
+  "keywords": [
+    "phone",
+    "formatting",
+    "validation"
+  ],
+  "homepage": "https://github.com/brian3kb/phone_number_js",
+  "authors": [
+    "Brian Barnett <brian@3kb.co.uk>"
+  ],
+  "description": "Phone number validator/formatter (UK numbers)"
+}
